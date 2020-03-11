@@ -1,0 +1,9 @@
+{
+  "name": "curious-stats3",
+  "scripts":{
+    "format": "prettier --loglevel warn --write js/**"
+  },
+  "dependencies": {
+    "prettier": "^1.19.1"
+  }
+}

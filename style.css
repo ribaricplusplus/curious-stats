@@ -1,0 +1,9 @@
+body{
+    min-width: 400px;
+    min-height: 400px;
+}
+
+td {
+    max-width: 300px;
+    text-overflow: ellipsis;
+}
